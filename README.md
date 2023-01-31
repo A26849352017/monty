@@ -1,6 +1,1 @@
-# stacks, Queues -LIFO, FIFO
-
-in colaboration with @A26849352017
- and @kibowen
-
- 
+# 0x19. C - Stacks, Queues - LIFO, FIFO
